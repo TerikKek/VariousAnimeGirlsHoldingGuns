@@ -4,9 +4,12 @@ Lots of them
 
 
 
-# Contributiing
+# Contributing
 To contribute make a pull request with the photos in their respective categories
 NO NSFW I don't feel like getting termed
+Make Sure the Photo in question is of decent quality and please include the gun-class and the source of where you got it
+Link PROVIDED PLEASE
+tineye reverse search is the best place to find where something originally came from...
 For the Classes of weapons and where to put them,
 ## Rifles: 
 Anything that *looks* like an assault rifle, Bolt-Action or DMR go into this Category
