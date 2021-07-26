@@ -6,7 +6,7 @@ Lots of them
 
 # Contributing
 To contribute make a pull request with the photos in their respective categories<br/>
-###NO NSFW I don't feel like getting termed
+###NO NSFW I don't feel like getting termed<br/>
 Make Sure the Photo in question is of decent quality and please include the gun-class and the source of where you got it
 Link PROVIDED PLEASE
 tineye reverse search is the best place to find where something originally came from...
